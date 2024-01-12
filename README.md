@@ -1,4 +1,4 @@
-# Git and GitHub essentials: A beginner's guide
+# Git Essentials: A beginner's guide
 
 ## To Check Git VErsion
 
