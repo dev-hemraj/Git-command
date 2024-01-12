@@ -19,3 +19,13 @@
 .active {
   background-color: purple;
 }
+
+.icon {
+  height: 80px;
+  width: 80px;
+  border-radius: 50%;
+  background-color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
