@@ -1,0 +1,21 @@
+.ola {
+  display: flex;
+  justify-content: space-between;
+  gap: 30px;
+  background-color: orange;
+  width: 100%;
+  max-width: 960px;
+  padding: 55px;
+}
+
+.box {
+  background-color: crimson;
+  padding: 50px;
+  color: white;
+  transition: all 0.5s ease-in-out;
+  cursor: pointer;
+}
+
+.active {
+  background-color: purple;
+}
